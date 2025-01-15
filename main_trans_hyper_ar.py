@@ -18,7 +18,7 @@ from util import *
 from ac.util import ArithmeticEncoder, ArithmeticDecoder
 from criterion import *
 
-from entroformer.ImageCompressionPipeline import ImageCompressionPipeline
+from ImageCompressionPipeline import ImageCompressionPipeline
 from Parameter_Estimation import ParameterEstimationNetwork
 import warnings
 import pandas as pd
